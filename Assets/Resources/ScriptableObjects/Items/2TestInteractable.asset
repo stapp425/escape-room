@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c36f816ed9c04d4caa64fb00d16787e, type: 3}
+  m_Name: 2TestInteractable
+  m_EditorClassIdentifier: 
+  title: Test Interactable #2
+  description: 2nd Test Interactable
+  image: {fileID: 21300000, guid: a3dfd04f5532c31409a34f7b14b8e1fe, type: 3}
+  gameObject: {fileID: 2575945027491071855, guid: 0644b6960b56db443a66403c33c98c20, type: 3}

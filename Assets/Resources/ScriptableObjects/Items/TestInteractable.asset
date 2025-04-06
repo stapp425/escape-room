@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c36f816ed9c04d4caa64fb00d16787e, type: 3}
+  m_Name: TestInteractable
+  m_EditorClassIdentifier: 
+  title: Test Interactable
+  description: An interactable for testing the pick up of interactables.
+  image: {fileID: 21300000, guid: 792306e5595cb0543b83946ecc1c84ef, type: 3}
+  gameObject: {fileID: 8083573792166129560, guid: 19f988b2df32b744aafe42862d73d2b2, type: 3}
